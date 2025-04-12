@@ -6,8 +6,6 @@ import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
 import laptopImg from "../../Assets/about.png";
 import Toolstack from "./Toolstack";
-import LeetCode from "./Leetcode"
-// import Leetcode from "./Leetcode";
 function About() {
   return (
     <Container fluid className="about-section">
