@@ -51,8 +51,6 @@ function About() {
           </h1>
           <h3>Github</h3>
           <Github />
-          <h3>Leetcode</h3>
-          <LeetCode/>
         </div>
       </Container>
     </Container>
