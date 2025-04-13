@@ -29,7 +29,7 @@ function Projects() {
               isBlog={false}
               title="Study-Notion"
               description="StudyNotion is a comprehensive e-learning platform designed to make education accessible and engaging. It offers a diverse range of courses, interactive learning tools, and expert-led tutorials tailored to meet the needs of students and professionals. With features like progress tracking and community support, StudyNotion fosters a collaborative and personalized learning experience."
-              // ghLink="https://github.com/gaurav1603/Chatify"
+              ghLink="https://github.com/gaurav1603/Study-Notion"
               // demoLink="https://chatify-49.web.app/"
             />
           </Col>
@@ -40,7 +40,7 @@ function Projects() {
               isBlog={false}
               title="Third-Eye"
               description="Third Eye is an innovative forensic analysis tool designed for enhanced facial recognition and sketch-based identification. It leverages advanced AI algorithms to process and analyze forensic sketches, aiding law enforcement in identifying individuals quickly and accurately. Third Eye streamlines investigations by providing intuitive insights and improving the efficiency of criminal profiling."
-              // ghLink="https://github.com/gaurav1603/Bits-0f-C0de"
+              ghLink="https://github.com/gaurav1603/Third-Eye"
               // demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
