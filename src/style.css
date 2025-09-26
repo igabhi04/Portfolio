@@ -741,3 +741,16 @@ button:focus {
 .fork-btn-inner::after {
   display: none !important;
 }
+
+.certification-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.certification-item {
+  color: white;          /* white font */
+  /* font-weight: bold;     bold text */
+  font-size: 1.2rem;     /* increase font size */
+  margin-bottom: 10px;   /* spacing between items */
+  line-height: 1.6;      /* better readability */
+}

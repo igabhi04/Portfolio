@@ -43,13 +43,13 @@ function About() {
           <strong className="purple">Tools</strong> I use
         </h1>
         <Toolstack />
-        <div>
+        {/* <div>
           <h1 className="project-heading" style={{ paddingBottom: "20px" }}>
             Days I <strong className="purple">Code</strong>
           </h1>
           <h3>Github</h3>
           <Github />
-        </div>
+        </div> */}
       </Container>
     </Container>
   );
